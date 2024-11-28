@@ -1,0 +1,11 @@
+com\upiiz\Examen2\Exception\GlobalExceptionHandler.class
+com\upiiz\Examen2\Config\OpenApiConfiguration.class
+com\upiiz\Examen2\Entities\Return.class
+com\upiiz\Examen2\Entities\Return$ReturnBuilder.class
+com\upiiz\Examen2\Config\SwaggerConfig.class
+com\upiiz\Examen2\Services\ReturnService.class
+com\upiiz\Examen2\Controllers\ReturnController.class
+com\upiiz\Examen2\Repositories\ReturnRepository.class
+com\upiiz\Examen2\Config\SecurityConfig.class
+com\upiiz\Examen2\Dto\CustomResponse.class
+com\upiiz\Examen2\Examen2Application.class
